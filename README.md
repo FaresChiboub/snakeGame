@@ -13,7 +13,7 @@ pnpm dev
 # or
 bun dev
 ```
-Live App :[snake-game-lake-five.vercel.app](https://snake-game-lake-five.vercel.app/)
+You can play the game live at: [Play Snake Game](https://snake-game-lake-five.vercel.app)
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
